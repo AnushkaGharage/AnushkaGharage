@@ -1,11 +1,5 @@
 <div align="center">
-  <!-- Banner with just name -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:1f2937,50:3b82f6,75:8b5cf6,100:06b6d4&height=300&section=header&text=ANUSHKA%20GHARAGE&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
-  
-  <!-- Animated subtitle replacing the static desc text -->
-  <div style="margin-top: -80px; position: relative; z-index: 10;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=18&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&height=50&lines=AI+Engineer+%7C+Building+Intelligent+Systems+%7C+Machine+Learning+Architect" alt="Animated Text"/>
-  </div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:1f2937,50:3b82f6,75:8b5cf6,100:06b6d4&height=300&section=header&text=ANUSHKA%20GHARAGE&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=50"/>
 </div>
 
 <!-- Animated Subtitle -->
@@ -17,7 +11,7 @@
 
 <!-- Executive Summary Badge -->
 <div align="center">
-  <img src="https://img.shields.io/badge/POSITION-%20AI%20Engineer-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=black"/>
+  <img src="https://img.shields.io/badge/POSITION-Chief%20AI%20Engineer-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=black"/>
   <img src="https://img.shields.io/badge/EXPERTISE-Production%20AI%20Systems-blue?style=for-the-badge&logo=brain&logoColor=white&labelColor=black"/>
   <img src="https://img.shields.io/badge/IMPACT-Enterprise%20Transformation-green?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=black"/>
 </div>
@@ -57,7 +51,7 @@
     <td width="50%">
       
 **ANUSHKA GHARAGE**  
-* AI Engineer & Innovation Catalyst*
+*AI Engineer & Innovation Catalyst*
 
 📍 **Location**: Pune, Maharashtra, India  
 🎓 **Education**: B.Tech Computer Science (Data Science)  
@@ -101,24 +95,10 @@ executive = ChiefAIEngineer()
 </code>
 </pre>
 
-
-    self.business_impact = {
-        "cost_savings": "80% operational reduction",
-        "accuracy_improvements": "95%+ system reliability",
-        "scale_achieved": "500+ daily transactions",
-        "team_leadership": "3+ cross-functional teams"
-    }
-    
-    self.technical_leadership = [
-        "Production AI System Architecture",
-        "Generative AI Pipeline Development", 
-        "MLOps & Enterprise Deployment",
-        "Agentic AI & Multi-Agent Systems"
-    ]
-
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 **TECHNOLOGY LEADERSHIP MATRIX**
@@ -215,7 +195,7 @@ executive = ChiefAIEngineer()
       • Real-time semantic search capabilities
     </td>
     <td>
-      odede>LangChain</code><br/>
+      <code>LangChain</code><br/>
       <code>FAISS</code><br/>
       <code>OpenAI API</code><br/>
       <code>Vector DB</code>
@@ -280,24 +260,53 @@ executive = ChiefAIEngineer()
 
 <div align="center">
 
-timeline
-title Executive Career Progression
-2024 : AI-ML Engineer
-     : Neugence Technology
-     : -  Led CycleGAN architecture development
-     : -  Achieved 95% visual consistency
-     : -  Managed cross-functional teams
-     
-2025 : Senior AI Engineer
-     : Acme Infotech  
-     : -  Architected multimodal AI systems
-     : -  80% operational cost reduction
-     : -  500+ daily transaction processing
-     
-Future :  Technology Officer
-       : AI Innovation Leadership
-       : -  Enterprise AI transformation
-       : -  Strategic technology initiatives
+### **🚀 CAREER PROGRESSION TIMELINE**
+
+<table width="100%" cellpadding="15" cellspacing="0">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2024-AI--ML%20Engineer-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=333"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Neugence-Technology-green?style=flat&logo=building&logoColor=white&labelColor=333"/>
+      <br/><br/>
+      <p align="left">
+        <b>🎯 Key Achievements:</b><br/>
+        • Led CycleGAN architecture development<br/>
+        • Achieved 95% visual consistency<br/>
+        • Managed cross-functional teams<br/>
+        • Pioneered production ML systems
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/2025-Senior%20AI%20Engineer-orange?style=for-the-badge&logo=brain&logoColor=white&labelColor=333"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Acme-Infotech-red?style=flat&logo=building&logoColor=white&labelColor=333"/>
+      <br/><br/>
+      <p align="left">
+        <b>🚀 Current Impact:</b><br/>
+        • Architected multimodal AI systems<br/>
+        • 80% operational cost reduction<br/>
+        • 500+ daily transaction processing<br/>
+        • Enterprise-grade AI deployment
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Future-Chief%20Technology%20Officer-gold?style=for-the-badge&logo=crown&logoColor=white&labelColor=333"/>
+      <br/>
+      <img src="https://img.shields.io/badge/AI%20Innovation-Leadership-purple?style=flat&logo=star&logoColor=white&labelColor=333"/>
+      <br/><br/>
+      <p align="left">
+        <b>🌟 Vision:</b><br/>
+        • Enterprise AI transformation<br/>
+        • Strategic technology initiatives<br/>
+        • Innovation ecosystem building<br/>
+        • Global AI leadership
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⬅️+Foundation+Building+⚡+Current+Excellence+➡️+Future+Leadership" alt="Career Progress"/>
 
 </div>
 
@@ -349,65 +358,6 @@ Future :  Technology Officer
   </tr>
 </table>
 </div>
-
----
-
-## 🏢 **PROFESSIONAL EXECUTIVE JOURNEY**
-
-<div align="center">
-
-### **🚀 CAREER PROGRESSION TIMELINE**
-
-<table width="100%" cellpadding="15" cellspacing="0">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/2024-AI--ML%20Engineer-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=333"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Neugence-Technology-green?style=flat&logo=building&logoColor=white&labelColor=333"/>
-      <br/><br/>
-      <p align="left">
-        <b>🎯 Key Achievements:</b><br/>
-        • Led CycleGAN architecture development<br/>
-        • Achieved 95% visual consistency<br/>
-        • Managed cross-functional teams<br/>
-        • Pioneered production ML systems
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/2025-Senior%20AI%20Engineer-orange?style=for-the-badge&logo=brain&logoColor=white&labelColor=333"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Acme-Infotech-red?style=flat&logo=building&logoColor=white&labelColor=333"/>
-      <br/><br/>
-      <p align="left">
-        <b>🚀 Current Impact:</b><br/>
-        • Architected multimodal AI systems<br/>
-        • 80% operational cost reduction<br/>
-        • 500+ daily transaction processing<br/>
-        • Enterprise-grade AI deployment
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/Future-Chief%20Technology%20Officer-gold?style=for-the-badge&logo=crown&logoColor=white&labelColor=333"/>
-      <br/>
-      <img src="https://img.shields.io/badge/AI%20Innovation-Leadership-purple?style=flat&logo=star&logoColor=white&labelColor=333"/>
-      <br/><br/>
-      <p align="left">
-        <b>🌟 Vision:</b><br/>
-        • Enterprise AI transformation<br/>
-        • Strategic technology initiatives<br/>
-        • Innovation ecosystem building<br/>
-        • Global AI leadership
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⬅️+Foundation+Building+⚡+Current+Excellence+➡️+Future+Leadership" alt="Career Progress"/>
-</div>
-
-</div>
-
 
 ---
 
