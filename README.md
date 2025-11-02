@@ -372,7 +372,7 @@ executive = ChiefAIEngineer()
 ## 🐍 **CONTRIBUTION ACTIVITY**
 
 <div align="center">
-  <img src="https://github.com/AnushkaGharage/AnushkaGharage/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AnushkaGharage/AnushkaGharage/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
