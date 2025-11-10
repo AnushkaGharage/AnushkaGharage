@@ -18,8 +18,8 @@
 
 <br/>
 
-<!--
 <!-- Executive Dashboard Metrics -->
+<!--
 <div align="center">
 <table>
   <tr>
@@ -117,22 +117,22 @@ executive = ChiefAIEngineer()
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" width="100"/>
       <br><b>Python | PyTorch | TensorFlow</b>
-      <br><sup>Expert Level</sup>
+      <!-- <br><sup>Expert Level</sup> -->
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/LangChain-★★★★★-brightgreen?style=for-the-badge&logo=chain&logoColor=white&labelColor=black"/>
       <br><img src="https://img.shields.io/badge/OpenAI-★★★★★-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=black"/>
-      <br><sup>Production Deployed</sup>
+      <!-- <br><sup>Production Deployed</sup> -->
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,fastapi,mysql&theme=dark" width="100"/>
       <br><b>Docker | FastAPI | MySQL</b>
-      <br><sup>Enterprise Scale</sup>
+      <!-- <br><sup>Enterprise Scale</sup> -->
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,github,linux&theme=dark" width="100"/>
       <br><b>AWS | GitHub | Linux</b>
-      <br><sup>Cloud Native</sup>
+      <!-- <br><sup>Cloud Native</sup> -->
     </td>
   </tr>
 </table>
@@ -156,14 +156,14 @@ executive = ChiefAIEngineer()
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3>💻 Technology Usage</h3>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnushkaGharage&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
     </td>
     <td width="50%">
       <h3>🏆 Achievement Portfolio</h3>
       <img src="https://github-profile-trophy.vercel.app/?username=AnushkaGharage&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/>
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>
@@ -263,7 +263,7 @@ executive = ChiefAIEngineer()
 <table width="100%" cellpadding="15" cellspacing="0">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/2024-AI--ML%20Engineer-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=333"/>
+      <img src="https://img.shields.io/badge/2024-AI--ML%20Intern-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=333"/>
       <br/>
       <img src="https://img.shields.io/badge/Neugence-Technology-green?style=flat&logo=building&logoColor=white&labelColor=333"/>
       <br/><br/>
@@ -276,7 +276,7 @@ executive = ChiefAIEngineer()
       </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/2025-Senior%20AI%20Engineer-orange?style=for-the-badge&logo=brain&logoColor=white&labelColor=333"/>
+      <img src="https://img.shields.io/badge/2025-AI%20Intern-orange?style=for-the-badge&logo=brain&logoColor=white&labelColor=333"/>
       <br/>
       <img src="https://img.shields.io/badge/Acme-Infotech-red?style=flat&logo=building&logoColor=white&labelColor=333"/>
       <br/><br/>
@@ -286,7 +286,7 @@ executive = ChiefAIEngineer()
         • Enterprise-grade AI deployment
       </p>
     </td>
-    <td width="33%" align="center" valign="top">
+    <!-- <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/Future-Chief%20Technology%20Officer-gold?style=for-the-badge&logo=crown&logoColor=white&labelColor=333"/>
       <br/>
       <img src="https://img.shields.io/badge/AI%20Innovation-Leadership-purple?style=flat&logo=star&logoColor=white&labelColor=333"/>
@@ -298,7 +298,7 @@ executive = ChiefAIEngineer()
         • Innovation ecosystem building<br/>
         • Global AI leadership
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
