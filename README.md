@@ -11,13 +11,14 @@
 
 <!-- Executive Summary Badge -->
 <div align="center">
-  <img src="https://img.shields.io/badge/POSITION-Chief%20AI%20Engineer-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/EXPERTISE-Production%20AI%20Systems-blue?style=for-the-badge&logo=brain&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/IMPACT-Enterprise%20Transformation-green?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=black"/>
+  <img src="https://img.shields.io/badge/POSITION-AI%20ML%20Engineer-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=black"/>
+  <img src="https://img.shields.io/badge/EXPERTISE-Building%20AI%20Systems-blue?style=for-the-badge&logo=brain&logoColor=white&labelColor=black"/>
+  <!-- <img src="https://img.shields.io/badge/IMPACT-Enterprise%20Transformation-green?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=black"/> -->
 </div>
 
 <br/>
 
+<!--
 <!-- Executive Dashboard Metrics -->
 <div align="center">
 <table>
@@ -41,7 +42,7 @@
   </tr>
 </table>
 </div>
-
+-->
 ---
 
 ## 🎯 **EXECUTIVE SUMMARY**
@@ -80,7 +81,6 @@ class ChiefAIEngineer:
         self.business_impact = {
             "cost_savings": "80% operational reduction", 
             "accuracy_improvements": "95%+ system reliability",
-            "scale_achieved": "500+ daily transactions",
             "team_leadership": "3+ cross-functional teams"
         }
         
