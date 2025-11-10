@@ -367,5 +367,5 @@ executive = ChiefAIEngineer()
   <h2>💼 <i>Available for building AI-ML Systems</i></h2>
   <p><b>Transforming businesses through intelligent automation and strategic AI implementation</b></p>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=AnushkaGharage&label=Executive%20Profile%20Views&color=gold&style=for-the-badge)](https://github.com/AnushkaGharage)
+  [![Profile Views](https://komarev.com/ghpvc/?username=AnushkaGharage&label=Executive%20Profile%20Views)](https://github.com/AnushkaGharage)
 </div>
