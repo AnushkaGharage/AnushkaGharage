@@ -51,12 +51,12 @@
     <td width="50%">
       
 **ANUSHKA GHARAGE**  
-*AI Engineer & Innovation Catalyst*
+*AI-ML Engineer*
 
 📍 **Location**: Pune, Maharashtra, India  
 🎓 **Education**: B.Tech Computer Science (Data Science)  
-💼 **Current Role**: AI Engineer @ Acme Infotech  
-🏆 **Experience**: 1+ Years in Production AI Systems  
+<!--💼 **Current Role**: AI Engineer --> 
+🏆 **Experience**: 1+ Years in Building AI Systems  
 
 **CORE COMPETENCIES:**
 - ✅ Enterprise Generative AI Architecture
@@ -74,8 +74,8 @@
 class ChiefAIEngineer:
     def __init__(self):
         self.name = "Anushka Gharage"
-        self.title = "Chief AI Engineer"
-        self.specialization = "Enterprise AI Architecture"
+        self.title = "AI-ML Engineer"
+        self.specialization = "Building AI Systems"
         
         self.business_impact = {
             "cost_savings": "80% operational reduction", 
@@ -87,7 +87,6 @@ class ChiefAIEngineer:
         self.technical_leadership = [
             "Production AI System Architecture",
             "Generative AI Pipeline Development", 
-            "MLOps & Enterprise Deployment",
             "Agentic AI & Multi-Agent Systems"
         ]
 
@@ -112,7 +111,7 @@ executive = ChiefAIEngineer()
     <th width="25%">🤖 <b>AI/ML CORE</b></th>
     <th width="25%">🎨 <b>GENERATIVE AI</b></th>
     <th width="25%">⚙️ <b>PRODUCTION</b></th>
-    <th width="25%">☁️ <b>INFRASTRUCTURE</b></th>
+    <th width="25%">☁️ <b>AGENTIC AI</b></th>
   </tr>
   <tr>
     <td align="center">
@@ -245,7 +244,6 @@ executive = ChiefAIEngineer()
       <code>FastAPI</code>
     </td>
     <td align="center">
-      <b>500+</b> Daily Transactions<br/>
       <b>98%</b> Language Accuracy<br/>
       <b>65%</b> Performance Boost
     </td>
@@ -283,10 +281,8 @@ executive = ChiefAIEngineer()
       <img src="https://img.shields.io/badge/Acme-Infotech-red?style=flat&logo=building&logoColor=white&labelColor=333"/>
       <br/><br/>
       <p align="left">
-        <b>🚀 Current Impact:</b><br/>
         • Architected multimodal AI systems<br/>
         • 80% operational cost reduction<br/>
-        • 500+ daily transaction processing<br/>
         • Enterprise-grade AI deployment
       </p>
     </td>
@@ -309,21 +305,20 @@ executive = ChiefAIEngineer()
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⬅️+Foundation+Building+⚡+Current+Excellence+➡️+Future+Leadership" alt="Career Progress"/>
 
 </div>
-
+<!--
 ### **🎯 CURRENT EXECUTIVE ROLE: Senior AI Engineer @ Acme Infotech**
-
+<
 **KEY BUSINESS ACHIEVEMENTS:**
 - 🚀 **Revenue Impact**: Delivered $2M+ in operational cost savings through AI automation
 - 📈 **Market Expansion**: 40% market reach increase through multilingual AI capabilities  
 - ⚡ **Performance Excellence**: 65% improvement in system response times
 - 👥 **Leadership**: Successfully managed cross-functional teams of 5+ engineers
-
+<
 **TECHNICAL LEADERSHIP:**
 - **System Architecture**: Designed enterprise-grade multimodal AI pipeline processing 500+ daily transactions
 - **Innovation**: Pioneered advanced prompt engineering techniques reducing cloud costs by 20%
 - **Quality Assurance**: Maintained 98% accuracy across 12+ language processing capabilities
 - **Scalability**: Built infrastructure supporting exponential business growth
-
 ---
 
 ## 🌐 **EXECUTIVE NETWORK & RECOGNITION**
@@ -382,7 +377,7 @@ executive = ChiefAIEngineer()
 </div>
 
 <div align="center">
-  <h2>💼 <i>Available for Executive Consulting & Strategic AI Partnerships</i></h2>
+  <h2>💼 <i>Available for building AI-ML Systems</i></h2>
   <p><b>Transforming businesses through intelligent automation and strategic AI implementation</b></p>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=AnushkaGharage&label=Executive%20Profile%20Views&color=gold&style=for-the-badge)](https://github.com/AnushkaGharage)
