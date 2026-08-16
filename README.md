@@ -29,7 +29,7 @@ Basically: learn things, build things, make them useful.
 <!-- *Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)* -->
 
 ### Connect with me
-[LinkedIn]([https://www.linkedin.com/in/anushka-gharage/]) <!-- • [My Scrimba Profile](https://scrimba.com/me/scrims)*-->• [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack) <!--• [I Built This on Scrimba](#) • [Portfolio](#)*-->
+[LinkedIn](https://www.linkedin.com/in/anushka-gharage/) <!-- • [My Scrimba Profile](https://scrimba.com/me/scrims)*-->• [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack) <!--• [I Built This on Scrimba](#) • [Portfolio](#)*-->
 
 `https://scrimba.com/?via=u4221e9e`
 
